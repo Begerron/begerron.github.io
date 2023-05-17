@@ -1,6 +1,43 @@
-body {
+html { 
+    background: url(../imagens/background.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+
+
+/*body {
     background-color: aqua;
+    background-image: url(../imagens/background.jpg);
+    background-size: cover;
+    
+}*/
+
+nav {
+    margin-top: 50px;
 }
-img {
+
+nav > a {
+    
+    color: white;
+    padding: 40px;
+}
+
+main {
+    margin-left: 100px;
+    padding: 50px;
+}
+
+main h1, h2, p{
+    color: white;
+}
+
+main > img {
     width: 10%;
+}
+
+#cssIcon {
+    width: 7%;
 }
