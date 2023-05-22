@@ -23,6 +23,12 @@ nav > a {
     
     color: white;
     padding: 40px;
+    text-decoration: none;
+
+}
+nav > a:hover {
+    color: black;
+    text-decoration: underline;
 }
 
 main {
