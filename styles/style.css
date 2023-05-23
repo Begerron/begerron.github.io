@@ -38,6 +38,18 @@ main {
 main h1, h2, p{
     color: white;
 }
+main > nav > img {
+    width: 100px;
+}
+span {
+    background: white;
+    color: darkblue;
+    position: absolute;
+    font-size: 50px;
+    margin-top: 20px;
+    border-radius: 10px;
+    
+}
 
 main > img {
     width: 10%;
