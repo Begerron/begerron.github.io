@@ -14,7 +14,6 @@ html {
     background-size: cover;
     
 }*/
-
 nav {
     margin-top: 50px;
 }
@@ -22,12 +21,12 @@ nav {
 nav > a {
     
     color: white;
-    padding: 40px;
+    margin-left: 57px;
     text-decoration: none;
 
 }
 nav > a:hover {
-    color: black;
+    color: yellow;
     text-decoration: underline;
 }
 
